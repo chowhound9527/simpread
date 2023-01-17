@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/translate-bookmarklet.html) [哔哩大会员限时 98 元 / 年](https://www.iplaysoft.com/p/bilibili-vip)  |   [PD18 虚拟机](https://www.iplaysoft.com/go/pdpost)  |   [爱奇艺 + 京东 Plus=123 元](https://www.iplaysoft.com/news/4313)  |   [腾讯云](https://www.iplaysoft.com/go/qcloud)  |   [Win11 激活码](https://www.iplaysoft.com/windows11.html)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/translate-bookmarklet.html) 
 
 最近由于买 [X-Box](https://www.iplaysoft.com/go/xboxone)、[PS4](https://www.iplaysoft.com/go/ps4) 等迷上了海淘而经常要在不同国家的[亚马逊](https://www.iplaysoft.com/go/amazonus)网站挑选商品，英语还好，而日语、法语、德语等各种外语网页都得靠翻译，因此特别希望能在**电脑和手机上都能方便地将网页[翻译](https://www.iplaysoft.com/tag/翻译)成中文。**
 
@@ -6,7 +6,6 @@
 
 ### 先说说什么是 Bookmarklet (收藏夹 / 书签工具)：
 
-<iframe>
 
 说到 Bookmarklet (书签工具)，其实就是一段保存在书签里的 [Javascript](https://www.iplaysoft.com/tag/javascript) 代码，平时我们打开一个网页时，点击收藏夹里的某个书签的话（譬如你之前收藏了[异次元](https://www.iplaysoft.com)），那么这个页面就会跳转到异次元的网站去了，而 Bookmarklet 则是直接在当前的网页中执行书签里保存的那段 JS 代码。我们网站之前就发布过一个[可以解除网页右键复制文字限制的书签小工具](https://www.iplaysoft.com/po-jie-fu-zhi-bookmarklet.html)，我们一般将这些带有功能性的书签叫做 Bookmarklet 或者书签小工具。
 
