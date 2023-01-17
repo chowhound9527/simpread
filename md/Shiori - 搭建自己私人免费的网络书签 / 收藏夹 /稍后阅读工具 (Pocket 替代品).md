@@ -1,24 +1,23 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/shiori.html) [哔哩大会员限时 98 元 / 年](https://www.iplaysoft.com/p/bilibili-vip)  |   [PD18 虚拟机](https://www.iplaysoft.com/go/pdpost)  |   [爱奇艺 + 京东 Plus=123 元](https://www.iplaysoft.com/news/4313)  |   [腾讯云](https://www.iplaysoft.com/go/qcloud)  |   [Win11 激活码](https://www.iplaysoft.com/windows11.html)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/shiori.html) 
 
 说到**网络书签**或**稍后阅读**应用，尽管不少人都有使用需求，但市面上并没有杀手级产品。像 QQ 书签、del.icio.us 早已停运，而存活的 [Raindrop.io](https://www.iplaysoft.com/raindrop-io.html)、[Pocket](https://www.iplaysoft.com/go/pocket) 等也是国外 + 收费为主。
 
 既然这些在线网络收藏工具、稍后阅读应用收费又贵，数据放在别人手上又没安全感，那倒不如像自建[网盘](https://www.iplaysoft.com/tag/网盘)那样，我们利用[自己的 VPS 服务器](https://www.iplaysoft.com/go/vps)或 [NAS](https://www.iplaysoft.com/go/nas)，使用开源程序来搭建一个专属自己的私人网络收藏夹吧！相比花钱又不知何时会关停的第三方服务来说，感觉还更靠谱一些……
 
-[优质 VPS 服务器推荐](https://www.iplaysoft.com/go/vps)
+
 
 ### Shiori (栞) 开源免费的自建网络收藏夹应用
 
-<iframe>
 
-**Shiori** 是一款[开源](https://www.iplaysoft.com/tag/开源)且免费的自建网络书签 / 稍后阅读应用（它有个奇怪的中文 / 日文名叫 “栞”，我还不知道怎么读~）。它基于 Go 语言开发，类似异次元推荐过的「[Cloudreve 网盘](https://www.iplaysoft.com/cloudreve.html)」，任何人都可将它搭建在自己的 [VPS 服务器](https://www.iplaysoft.com/go/vps) (推荐[腾讯云](https://www.iplaysoft.com/p/qcloud-sale)、[阿里云](https://www.iplaysoft.com/go/aliyun)、[Vultr](https://www.iplaysoft.com/p/vultr-promotion) 等) 或 [NAS](https://www.iplaysoft.com/go/nas) 主机上 ，并通过[浏览器](https://www.iplaysoft.com/tag/浏览器)直接访问使用。
+**Shiori** 是一款[开源](https://www.iplaysoft.com/tag/开源)且免费的自建网络书签 / 稍后阅读应用（它有个奇怪的中文 / 日文名叫 “栞”，我还不知道怎么读~）。它基于 Go 语言开发，类似异次元推荐过的「[Cloudreve 网盘](https://www.iplaysoft.com/cloudreve.html)」，任何人都可将它搭建在自己的 [VPS 服务器](https://www.iplaysoft.com/go/vps) 或 [NAS](https://www.iplaysoft.com/go/nas) 主机上 ，并通过[浏览器](https://www.iplaysoft.com/tag/浏览器)直接访问使用。
 
-![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_image.jpg!0x0.webp)
+![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_image.jpg)
 
 [Shiori](https://www.iplaysoft.com/shiori.html) 提供了一个简约精美的网页版界面，可以适配电脑和手机版显示，你可以在不同设备上随意管理你的书签收藏，支持[搜索](https://www.iplaysoft.com/tag/搜索)、加标签、设为公开分享等等操作，功能上和 Pocket 这类工具非常相近。
 
 换句话说，使用 Shiori 你就可以免费建立一个属于自己私人的近似 **Pocket 的替代品**，而比起他们每年近 300 元的会员费用，用这些钱买自己的[服务器](https://www.iplaysoft.com/tag/服务器)和[域名](https://www.iplaysoft.com/go/domain)它不更香么？！
 
-![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_screenshot.jpg!0x0.webp)
+![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_screenshot.jpg)
 
 当然，这是网络收藏夹 / 稍后阅读工具，并不是「浏览器收藏夹同步工具」，需要浏览器收藏夹同步的可以[去看看 EverSync](https://www.iplaysoft.com/eversync.html)。
 
@@ -26,7 +25,7 @@
 
 除了服务端，Shiori 也配套了**浏览器扩展**，可以让你「一键收藏内容」，你可以像 Raindrop、Pocket 等服务那样，直接点击就能一键将网址和内容收藏到你自己的 Shiori 里面去，使用上非常方便，体验也很不错。
 
-![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_extension.png!0x0.webp)
+![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_extension.png)
 
 不过 Shiori 的浏览器扩展并没有上架到 [Chrome](https://www.iplaysoft.com/google-chrome.html) 和 [FireFox](https://www.iplaysoft.com/firefox.html) 的扩展商店，仅提供源代码下载。你下载之后，需要勾选 Chrome 的开发者模式，把代码文件夹拖放过去安装即可。而 Firefox 则提供了 .xpi 扩展文件，也是拖放即可安装。
 
@@ -36,7 +35,8 @@
 
 相比 [OneNote](https://www.iplaysoft.com/onenote.html)、[印象笔记](https://www.iplaysoft.com/yinxiangbiji.html)等一系列笔记类工具，Shiori (栞) 更加专注于「网络收藏夹」或者「稍后阅读」这样的功能，将收藏的书签和你自己撰写的笔记分开存储也更利于提高[效率](https://www.iplaysoft.com/tag/效率)。
 
-![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_reader.png!0x0.webp)
+![](https://img.iplaysoft.com/wp-content/uploads/2020/shiori/shiori_reader.png
+)
 
 ### Shiori 安装方法：
 
