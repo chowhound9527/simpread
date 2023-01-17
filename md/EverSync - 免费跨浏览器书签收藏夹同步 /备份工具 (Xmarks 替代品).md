@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/eversync.html) [哔哩大会员限时 98 元 / 年](https://www.iplaysoft.com/p/bilibili-vip)  |   [PD18 虚拟机](https://www.iplaysoft.com/go/pdpost)  |   [爱奇艺 + 京东 Plus=123 元](https://www.iplaysoft.com/news/4313)  |   [腾讯云](https://www.iplaysoft.com/go/qcloud)  |   [Win11 激活码](https://www.iplaysoft.com/windows11.html)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.iplaysoft.com](https://www.iplaysoft.com/eversync.html) 
 
 [工作](https://www.iplaysoft.com/tag/工作)生活中，我们常常要使用多台不同电脑。其中，文件我们可以通过 [OneDrive](https://www.iplaysoft.com/onedrive.html)、[坚果云](https://www.iplaysoft.com/jianguoyun.html)、[Dropbox](https://www.iplaysoft.com/dropbox.html) 等网盘进行同步，但「**浏览器收藏夹 / 书签的同步工具**」却并不多。
 
@@ -6,7 +6,6 @@
 
 ### Chrome / FireFox / IE 书签同步工具
 
-<iframe>
 
 **EverSync** (**EverHelper**) 是一个免费的跨平台跨浏览器的书签 / 收藏夹以及标签页[同步](https://www.iplaysoft.com/tag/同步)工具 (网络书签服务)，可以支持谷歌浏览器 [Chrome](https://www.iplaysoft.com/google-chrome.html)、[Firefox](https://www.iplaysoft.com/firefox.html)、IE 浏览器之间互相同步，并提供了 [Android](https://www.iplaysoft.com/os/android-platform)、[iOS](https://www.iplaysoft.com/os/ios-platform)、WP 手机版应用。
 
